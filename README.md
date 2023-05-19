@@ -20,10 +20,11 @@ Setup as a starter template, you can easily generate a new GitHub repository. Fr
 ## Usage
 
 1. Create a new repository from this template.
-2. Modify `.github/workflows/scheduler.yml` to set your GitHub username for the `SPONSORKIT_GITHUB_LOGIN` environment variable.
-3. Create a `SPONSORS_TOKEN` secret in your repository settings with a [GitHub personal access token (classic)](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) with the `read:org` and `read:user` scopes.
-4. (Optional) Modify the `sponsor.config.ts` file to match your needs.
-5. Commit and push your changes to the _main_ branch. It will trigger the workflow, generate and commit the sponsors images at the root level of your repository.
+1. Change its default settings to have “Read an write permissions” for the “Workflow permissions” option in "Actions" section.
+1. Modify `.github/workflows/scheduler.yml` to set your GitHub username for the `SPONSORKIT_GITHUB_LOGIN` environment variable.
+1. Create a `SPONSORS_TOKEN` secret in your repository settings with a [GitHub personal access token (classic)](https://docs.github.com/en/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token) with the `read:org` and `read:user` scopes.
+1. (Optional) Modify the `sponsor.config.ts` file to match your needs.
+1. Commit and push your changes to the _main_ branch. It will trigger the workflow, generate and commit the sponsors images at the root level of your repository.
 
 ### Manual Generation
 
