@@ -33,3 +33,9 @@ You can also generate the sponsors images locally by running the `build.sh` scri
 For that, you need to copy `.env.example` to `.env` and set the `SPONSORKIT_GITHUB_TOKEN` and `SPONSORKIT_GITHUB_LOGIN` variables.
 
 And then simply run `npm run build`.
+
+## Sponsors of Open {re}Source
+
+<p align="center">
+  <img src='https://cdn.jsdelivr.net/gh/Open-reSource/sponsors/sponsors.svg'/>
+</p>
