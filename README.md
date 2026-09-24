@@ -1,4 +1,4 @@
-<p align="center"><picture><source srcset="https://raw.githubusercontent.com/Open-reSource/sponsorkit-starter/main/.github/header.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/Open-reSource/sponsorkit-starter/main/.github/header.png" width="830" alt="SponsorKit Starter, by Open {re}Source. A template repository to generate your own sponsor images with SponsorKit."></picture></p>
+<p align="center"><picture><source srcset=".github/header.svg" type="image/svg+xml"><img src=".github/header.png" width="830" alt="SponsorKit Starter, by Open {re}Source. A template repository to generate your own sponsor images with SponsorKit."></picture></p>
 
 # SponsorKit Starter Template
 
