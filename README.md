@@ -1,3 +1,5 @@
+<p align="center"><picture><source srcset="https://raw.githubusercontent.com/Open-reSource/sponsorkit-starter/main/.github/header.svg" type="image/svg+xml"><img src="https://raw.githubusercontent.com/Open-reSource/sponsorkit-starter/main/.github/header.png" width="830" alt="SponsorKit Starter, by Open {re}Source. A template repository to generate your own sponsor images with SponsorKit."></picture></p>
+
 # SponsorKit Starter Template
 
 ## About
@@ -41,3 +43,5 @@ And then simply run `npm run build`.
     <img src='https://cdn.jsdelivr.net/gh/Open-reSource/sponsors/sponsors.svg'/>
   </a>
 </p>
+
+<sub>The Open {re}Source mark and the header image (`.github/header.*`) are not covered by the licence of this repository: all rights reserved.</sub>
